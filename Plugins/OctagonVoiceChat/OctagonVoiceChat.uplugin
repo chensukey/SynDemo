@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Octagon Voice Chat",
+	"Description": "Customized handling of player voice chat.",
+	"Category": "Gameplay",
+	"CreatedBy": "Octagon Interactive Ltd.",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/5d63e8c7fea642b88e9be0a2830b0d69",
+	"SupportURL": "",
+	"EngineVersion": "4.18.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "OctagonVoiceChat",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Win32"
+			]
+		}
+	]
+}
